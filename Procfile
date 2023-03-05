@@ -1,1 +1,1 @@
-web: java -jar ./main.jar
+web: java -jar /app/main.jar
